@@ -1,0 +1,7 @@
+Elasticsearch
+langchain
+python-dotenv
+openai
+pypdf
+sentence-transformers==2.2.2
+langchain_elasticsearch

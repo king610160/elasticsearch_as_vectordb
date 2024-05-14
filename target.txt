@@ -1,0 +1,4 @@
+1. 使用es來當向量資料庫 (V)
+2. 免錢的embedding model，應該是min那一個(用過的那個) (V)
+3. 確認能否用es執行向量查詢 (V, 可以，檔案另外匯入)
+4. 把查到的向量資料，丟到openai來進行問題回答 (可以，但沒有用retrieveQA，因為LangChain用elasticsearchStore，但不會用)
